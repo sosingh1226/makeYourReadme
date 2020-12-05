@@ -1,23 +1,23 @@
 # Title: 
-  df,
+  Mood Brew,
 
   # Description of the Project:
-  fvfd,
+  Stimulates randomly generated drinks and food based on your mood,
 
   # Installation Instructions:
-  dsd,
+  npm generator,
 
   # Usage Information:
-  aas,
+  Use this app on the weekends,
 
   # Contribution Guidelines:
-  wqw,
+  Can be shared,
 
   # Test Instructions:
-  wq
+  Test instructions here
 
   # GitHub Link:
-  rwse
+  https://github.com/sosingh1226
 
   # Email:
-  gffg
+  so.singh1226@gmail.com
